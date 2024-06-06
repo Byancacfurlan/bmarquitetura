@@ -16,4 +16,4 @@ https://byancacfurlan.github.io/bmarquitetura/
 ## Autoras
 
 - [@letambani](https://github.com/letambani)
-- [@Byancafurlan](https://github.com/Byancafurlan)
+- [@Byancacfurlan](https://github.com/Byancacfurlan)
